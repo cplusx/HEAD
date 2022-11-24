@@ -1,4 +1,4 @@
-Supplemetary material for Attack-Agnostic Adversarial Detection
+Code release for [Attack-Agnostic Adversarial Detection](https://openreview.net/pdf?id=I6qYtguqZoR) (Accepted at NeurIPS 2022 Workshop)
 
 This repository provides the code to reproduce the main results in the paper
 
